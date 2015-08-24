@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "gecko.png",
+	"frame": {"x":0,"y":0,"w":1524,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1524,"h":88},
+	"sourceSize": {"w":1524,"h":88}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "gecko-texture.png",
+	"format": "RGBA8888",
+	"size": {"w":1524,"h":88},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9633afc4fa3724bfb78733652a9b55d8:73aa7c0541d3a26260d051cefaca660b:5d8050bdb0041a5b463c2d4cc50448d4$"
+}
+}
